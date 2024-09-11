@@ -1,3 +1,18 @@
 [submodule "ms-exams"]
 	path = ms-exams
-	url = https://github.com/gabriel-ribeiro-099/ms-exams.git
+	url = https://github.com/CaioVitorDM/ms-exams.git
+[submodule "ms-protocols"]
+	path = ms-protocols
+	url = https://github.com/CaioVitorDM/ms-protocols
+[submodule "ms-files"]
+	path = ms-files
+	url = https://github.com/CaioVitorDM/ms-files
+[submodule "ms-auth-server"]
+	path = ms-auth-server
+	url = https://github.com/CaioVitorDM/ms-auth-server
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/CaioVitorDM/eureka-server
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/CaioVitorDM/api-gateway
