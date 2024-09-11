@@ -16,3 +16,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/CaioVitorDM/api-gateway
+[submodule "spa-beta-plus"]
+	path = spa-beta-plus
+	url = https://github.com/CaioVitorDM/spa-beta-plus
