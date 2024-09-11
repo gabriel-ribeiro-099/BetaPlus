@@ -1,0 +1,3 @@
+[submodule "ms-exams"]
+	path = ms-exams
+	url = https://github.com/gabriel-ribeiro-099/ms-exams.git
