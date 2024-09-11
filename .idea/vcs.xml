@@ -8,4 +8,6 @@
     <mapping directory="$PROJECT_DIR$/ms-exams" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-files" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-protocols" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/sp
+    <mapping directory="$PROJECT_DIR$/spa-beta-plus" vcs="Git" />
+  </component>
+</project>
